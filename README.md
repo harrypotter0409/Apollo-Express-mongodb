@@ -27,7 +27,7 @@
 * `npm install`
 * fill out *.env file* (see below)
 * `npm start`
-* [start MongoDB](https://www.robinwieruch.de/mongodb-express-setup-tutorial/)
+* start MongoDB
 * visit `http://localhost:8000` for GraphQL playground
 
 #### .env file
